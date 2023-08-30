@@ -1,6 +1,6 @@
 #Como ejecutar
 
-(Primerame aclarar que es necesario que tenga Python instalado en su computadora)
+(Primeramente aclarar que es necesario que tenga Python instalado en su computadora)
 
 Desde la consola situese en la carpeta del proyecto mediante la intrucción cd, 
 es decir, si el proyecto está en el escritorio ejecutar:
@@ -15,7 +15,7 @@ Una vez dentro del directorio del proyecto, active el entorno virtual mediante l
 
 .\venv\Scripts\activate
 
-Finalmente ejecute la aplicación mediante el comando 
+Finalmente ejecute la aplicación mediante el comando:
 
 python manage.py runserver
 
