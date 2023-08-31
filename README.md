@@ -19,3 +19,4 @@ Finalmente ejecute la aplicación mediante el comando:
 
 python manage.py runserver
 
+Luego de esto se iniciará la aplicación en la url: http://127.0.0.1:8000/
